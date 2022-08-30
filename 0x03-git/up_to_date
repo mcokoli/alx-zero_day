@@ -1,1 +1,1 @@
-git remote add upstream
+git pull upstream master
